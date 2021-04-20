@@ -1,3 +1,5 @@
+# progate1-1~5
+
 print('Hello Python')
 
 # 数値の7を出力してください
